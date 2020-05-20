@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+.Rproj.user
+
+# Large data file
+data/original/TampaGIS-selected/*
+data/original/TampaGIS-selected/*.*
+/data/original/TampaGIS-selected/*
+/data/original/TampaGIS-selected/*.*
