@@ -40,7 +40,8 @@ vignettes/*.pdf
 .Rproj.user
 
 # Large data file
-data/original/TampaGIS-selected/*
-data/original/TampaGIS-selected/*.*
-/data/original/TampaGIS-selected/*
-/data/original/TampaGIS-selected/*.*
+data/original/TampaGIS-selected/TampaUTC2016_Rasters.gdb/*.*
+data/original/TampaGIS-selected/TampaUTC2016_Rasters.gdb/*
+data/original/TampaGIS-selected/TampaUTC2016_Rasters.gdb
+/data/original/TampaGIS-selected/TampaUTC2016_Rasters.gdb/*
+/data/original/TampaGIS-selected/TampaUTC2016_Rasters.gdb/*.*
